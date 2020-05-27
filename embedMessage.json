@@ -1,0 +1,6 @@
+{
+  "embeds": [{
+    "title": "Webhook Embed",
+    "description": "Hello from my webhook!"
+  }]
+}
